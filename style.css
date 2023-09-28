@@ -2,4 +2,19 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     color: white;
     background-color: black;
+    text-align: justify;
+    margin: 5px 25px;
+}
+
+li {
+    list-style-position: inside;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
 }
